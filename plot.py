@@ -49,8 +49,8 @@ class voaarea:
 
 	# FIXME: remove my stuff
 	def __init__(self,frequency,power,month,hour,
-			tx_label="DG6FL", tx_lat=50.0078, tx_lon=8.30822, 
-			filepath="/Users/g/itshfbc/areadata/",
+			tx_label="MYCALL", tx_lat=1.1, tx_lon=2.2, 
+			filepath="MYHOME/itshfbc/areadata/",
 			RSN=27, XNOISE = 145,
 			tx_ant_data_file = "samples/sample.00",
 			rx_ant_data_file = "samples/sample.00",
